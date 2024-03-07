@@ -1,4 +1,4 @@
-# Technologies_Survey_Analysis_Dashboard
+# Technologies Survey Analysis Dashboard
 
 This IBM Cognos Analytics dashboard is part of the Capstone Project in IBM Data Analyst Professional Certificate course.
 
