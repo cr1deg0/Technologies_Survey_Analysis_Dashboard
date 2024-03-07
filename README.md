@@ -5,5 +5,5 @@ This IBM Cognos Analytics dashboard is part of the Capstone Project in IBM Data 
 It's based on a simplified version of the Stack Overflow Survey 2019 dataset and showcases:
 
 - Current Technology Usage
-- Future technoly Trends
+- Future Technology Trends
 - Respondent Demographics statistics
